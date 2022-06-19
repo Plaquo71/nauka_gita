@@ -10,3 +10,5 @@ Swedish dictionary:
 
 So the translation will be:
 **My name is Plaquo**.
+
+![This is an image](https://speltips.se/wp-content/uploads/SverigesFlagga.png)
